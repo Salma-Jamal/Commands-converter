@@ -1,2 +1,2 @@
 # Commands-converter
-Convert DOS to Linux commands
+Convert DOS commands to Linux commands
